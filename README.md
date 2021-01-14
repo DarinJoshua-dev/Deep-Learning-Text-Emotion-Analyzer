@@ -1,10 +1,12 @@
 # Deep-Learning-Text-Emotion-Analyzer
 
+Created this Deep Learning (DL) RNN model for Deep-Learning-Text-Emotion-Analyzer project as an outcome of the TCS iON Internship for Artificial Intelligence.
+
 #Project Synopsis: 
  
-	Implementation of the Deep Learning Recurrent Neural Network Algorithm by PyTorch to identify the different emotions in the text, feedback and paragraph by training the model to predict accurately, the emotions of anger, fear, joy, surprise and sadness using a pickled Emotion-Text Dataset by the Analysis & RNN model Algorithm implemented by PyTorch to evaluate above 91% accuracy in test.
+*	Implementation of the Deep Learning Recurrent Neural Network Algorithm by PyTorch to identify the different emotions in the text, feedback and paragraph by training the model to predict accurately, the emotions of anger, fear, joy, surprise and sadness using a pickled Emotion-Text Dataset by the Analysis & RNN model Algorithm implemented by PyTorch to evaluate above 91% accuracy in test.
 
-	The RNN Model is Capable of solving many real-world problems, especially has proved efficient in Text Emotion Detection and Analysis by accurate test results and Strong Neural Network Framework of PyTorch. (Using TensorFlow Framework, CNN Model was also tested and proved good results)
+*	The RNN Model is Capable of solving many real-world problems, especially has proved efficient in Text Emotion Detection and Analysis by accurate test results and Strong Neural Network Framework of PyTorch. (Using TensorFlow Framework, CNN Model was also tested and proved good results)
 
  
  
