@@ -1,6 +1,6 @@
 # Deep-Learning-Text-Emotion-Analyzer
 
-Created this Deep Learning (DL) RNN model for Deep Learning Text Emotion Analyzer project as an outcome of the TCS iON Internship for Artificial Intelligence.
+Created this Deep Learning (DL) RNN model - Deep Learning Text Emotion Analyzer project as an outcome of the TCS iON Internship for Artificial Intelligence.
 
 #Project Synopsis: 
  
